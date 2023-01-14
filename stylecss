@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DFSTORE13</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav
+      class="navbar navbar-expand-lg navbar-dark bg-dark"
+    >
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">DFSTORE13</a>
+      <img src="WhatsApp Image 2022-10-24 at 22.38.24.jpeg"style="width:110px;height:90px;">
+
+        <div class="collapse navbar-collapse text-right" id="navbarText">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-2">
+            <li class="nav-item">
+              <a class="nav-link" href="#layanan">Tentang DFSTORE13</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#portofolio">barang DFSTORE13</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#kontak">Kontak Kami</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#mengapa memilih kami">review</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#pengiriman">ekpedisi</a>
+            </li>
+          </ul>
+          </form>
+        </div>
+      </div>
+    </nav>
+      <!-- banner -->
+    <div class="container-fluid banner">
+        <div class="container text-center">
+          <h4 class="display-6">Welcome Website</h4>
+          <h3 class="display-1">DFSTORE13</h3>
+          
+          <a href="#layanan">
+            <button type="button" class="btn btn-dark btn-lg">
+              Tentang DFSTORE13
+            </button>
+          </a>
+        </div>
+      </div>
+      <!-- layanan -->
+    <div class="container-fluid layanan pt-5 pb-5">
+        <div class="container text-center">
+          <h2 class="display-4" id="layanan">Tentang DFSTORE13</h2>
+          <p>
+           DFSTORE13 sendiri bergerak di bidang teknologi, dengan barang berkualitas dan original
+           memberikan barang berkualitas khususnya dibidang teknologi dengan harga yang terjangkau dan dapat dimiliki di semua kalangan.<br/>
+           Udah tahu belum apa aja spare parts laptop dan komputer?
+
+Agar laptop dan komputer bisa menyala, di perlukan beberapa spare parts atau bagian-bagian mesin yang di satukan agar bisa beroperasi dengan sempurna. Bagian ini yang biasa di sebut hardware atau perangkat keras sebagai mesin yang akan menjalankan sistem kerja komputer.
+
+Semua perangkat keras harus dalam kondisi normal, agar kinerja komputer tidak mengalami masalah. Kalau ada salah satu komponen yang rusak, maka akan mengganggu sistem operasi atau bahkan laptop dan komputernya tidak akan mau menyala sama sekali.
+  
+  
+          </p>
+          <div class="row pt-4">
+            <div class="col-md-4">
+              <span class="lingkaran"><i class="	fas fa-clipboard fa-5x"></i></span>
+              <h3 class="mt-3">Tujuan DFSTORE13 </h3>
+              <p>
+               1.  Untuk mempermudah para masyarakat dalam mencari barang khususnya sparepart laptop yang berkualitas dengan harga yang terjangkau.<br/>
+               2.  Untuk meningkatkan Kemajuan dan Pertumbuhan ekonomi masyarakat di bidang teknologi.
+  
+  
+              </p>
+            </div>
+  
+            <div class="col-md-4">
+              <span class="lingkaran"><i class="fas fa-laptop fa-5x"></i></span>
+              <h3 class="mt-3">Berdirinya DFSTORE13</h3>
+              <p>
+                1. Digemari usia tertentu.<br/>
+                2. Memiliki Banyak Peminat<br/>
+                3. tersedia banyak kebutuhan teknologi.<br/>
+                4. memiliki banyak barang berkualitas dan original.<br/>
+                
+  
+  
+              </p>
+            </div>
+            <div class="col-md-4">
+                <span class="lingkaran">
+                  <i class=" fas fa-calendar-alt fa-5x"></i></i></span>
+                <h3 class="mt-3">Planing Produk</h3>
+                <p>
+                 1. Siapkan tekad dan modal<br/>
+                 2. Tentukan Satu Kategori Produk dengan Spesifik<br/>
+                 3. Riset dan Analisis Pasar<br/>
+                 4. Cari Supplier yang Terbaik<br/>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> 
+
+        <!-- portofolio -->
+    
+                <div class="container-fluid pt-5 pb-5 bg-light">
+                    <div class="container text-center">
+                      <h2 class="display-3" id="portofolio">Produk</h2>
+                      <p>
+                        
+                      </p>
+                      <div class="row pt-4 gx-4 gy-4">
+                        <div class="col-md-4">
+                         <div class="card crop-img">
+                            <img
+                              src="WhatsApp Image 2022-10-24 at 23.39.57 (2).jpeg"
+                              class="card-img-top"
+                              width="300"
+                              height="300"
+                            />
+                            <div class="card-body">
+                              <h5 class="card-title" > </h5>BATTERY HP BL06XL
+                              <p class="card-text">
+                               
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card crop-img">
+                              <img
+                                src="WhatsApp Image 2022-10-24 at 23.39.57.jpeg"
+                                class="card-img-top"
+                                width="300"
+                                height="300"
+                              />
+                              <div class="card-body">
+                                <h5 class="card-title">BATTERY ASUS C31N1841</h5>
+                
+                                <p class="card-text">
+                
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                                <div class="col-md-4">
+                                 <div class="card crop-img">
+                                    <img
+                                      src="WhatsApp Image 2022-10-24 at 23.39.57 (1).jpeg"
+                                      class="card-img-top"
+                                      width="300"
+                                      height="300"
+                                    />
+                                    <div class="card-body">
+                                      <h5 class="card-title" >LAYAR LED FHD (1920 x 1080) </h5>
+                                      <p class="card-text">
+                                       
+                                      </p>
+                                    </div>
+                                 </div>
+                              </div>
+
+                <!-- kontak person  -->
+    <div class="container-fluid pt-5 pb-5">
+      <div class="container">
+        <h2 class="display-3 text-center" id="kontak">Kontak Kami</h2>
+        <div class="row pt-4 gx-4 gy-4">
+          <div class="col-md-4 text-center tim">
+            <img
+              src=""
+              class="rounded-circle mb-2"
+            />
+          
+          </div>
+          <div class="col-md-4 text-center tim">
+            <img src="WhatsApp Image 2022-10-24 at 22.38.24.jpeg"style="width:300px;height:300px;">
+
+            <h2>DFSTORE13</h2>
+            <h4>teknologi</h4>
+            
+           
+            <div class="">
+              
+              <h6 class="text-center">Via Order</h6>
+              <div class="row mt-5">
+                <div class="col-md-4"> 
+                  <p>
+                    <a href="https://instagram.com/dffollowers13?igshid=YmMyMTA2M2Y=" class="social"><i class="fab fa-instagram"></i></a>
+                  </p>
+                  <h6>Intagram DFSTORE13</h6></div>
+                <div class="col-md-4">
+                  <p>
+                    <a href="https://tokopedia.link/dfstore13" class="social"><i class="fas fa-cart-plus"></i></a>
+                  </p>
+                  <h6>Tokopedia DFSTORE13</h6>
+                </div>
+                <div class="col-md-4">
+                  <p>
+                    <a href="https://wa.me/+6281398613952" class="social"><i class="fab fa-whatsapp"></i></a>
+                  </p>
+                  <h6>Via Whatsapp</h6>
+                </div>
+              </div>
+            </div>
+
+          </div>
+      
+          <div class="col-md-4 text-center tim">
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid pt-5 pb-5 bg-light">
+      <div class="container text-center">
+        <h2 class="display-3" id="mengapa memilih kami">MENGAPA MEMILIH KAMI</h2>
+        <p>
+          
+        </p>
+        <div class="row pt-4 gx-4 gy-4">
+          <div class="col-md-4">
+           <div class="card crop-img">
+              <img
+                src="https://cdn3.vectorstock.com/i/1000x1000/25/77/computer-icon-pc-icon-monitor-icon-vector-30662577.jpg"
+                class="card-img-top"
+                width="300"
+                height="300"
+              />
+              <div class="card-body">
+                <h2 class="card-title" >PALING LENGKAP </h2>
+                <p class="card-text">
+                  Dengan stok varian laptop dan komputer ada banyak pilihan 
+                  alternatif unit yang ready stock dengan berbagai merk
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+              <div class="card crop-img">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/124/124754.png"
+                  class="card-img-top"
+                  width="200"
+                  height="300"
+                />
+                <div class="card-body">
+                  <h2 class="card-title">PROSES CEPAT</h2>
+  
+                  <p class="card-text">
+                    Layanan cepat dengan proses mudah, 
+                    proses mulai dari penawaran sampai transaksi cepat 
+                    1jam selesai
+  
+                  </p>
+                </div>
+              </div>
+            </div>
+                  <div class="col-md-4">
+                   <div class="card crop-img">
+                      <img
+                        src="https://w7.pngwing.com/pngs/631/883/png-transparent-thumb-signal-blue-computer-icons-thumbs-up-miscellaneous-text-hand.png"
+                        class="card-img-top"
+                        width="200"
+                        height="300"
+                      />
+                      <div class="card-body">
+                        <h2 class="card-title" >AMAN DAN TERPECAYA </h2>
+                        <p class="card-text">
+                         Kami telah melayani ratusan konsumen dari 2020.
+                         transaksi aman dengan datang langsung atau via ekspedisi
+                      
+                        </p>
+                      </div>
+                   </div>
+                </div>
+
+    <div class="container-fluid pt-5 pb-5 bg-light">
+      <div class="container text-center">
+        <h2 class="display-3" id="pengiriman">Pengiriman</h2>
+        <p>
+          
+        </p>
+        <div class="row pt-4 gx-4 gy-4">
+          <div class="col-md-4">
+           <div class="card crop-img">
+              <img
+                src="https://madingloker.com/wp-content/uploads/2021/03/JNE-Express.jpg"
+                class="card-img-top"
+                width="300"
+                height="300"
+              />
+              <div class="card-body">
+                <h5 class="card-title" > </h5>JNE-Express
+                <p class="card-text">
+                  <button type="button" class="btn btn-dark btn-lg">
+                    <a href="https://www.jne.co.id/id/beranda" class="social"><p>JNE-Express</p></a>
+                  </button>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+              <div class="card crop-img">
+                <img
+                  src="https://play-lh.googleusercontent.com/61XwLATpiZAh_1nyif8upN-MdzNGK27Yz4qwmsiWOOGiC-mtIU-r5OcCUljyI7P3K0vf"
+                  class="card-img-top"
+                  width="300"
+                  height="300"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">JNT-Express</h5>
+  
+                  <p class="card-text">
+                    <button type="button" class="btn btn-dark btn-lg">
+                      <a href="https://jet.co.id/track" class="social"><p>JNT-Express</p></a>
+                    </button>
+                  </p>
+                </div>
+              </div>
+            </div>
+                  <div class="col-md-4">
+                   <div class="card crop-img">
+                      <img
+                        src="https://lelogama.go-jek.com/post_featured_image/GOSEND_PALING_NEW.jpg"
+                        class="card-img-top"
+                        width="300"
+                        height="300"
+                      />
+                      <div class="card-body">
+                        <h5 class="card-title" >GOSEND </h5>
+                        <p class="card-text">
+                          <button type="button" class="btn btn-dark btn-lg">
+                            <a href="https://www.gojek.com/gosend/?gclid=CjwKCAiAwomeBhBWEiwAM43YIMor81BO2L6qEtD1uSRwyb8SyvoM3TMQHESmUmjWCbjnz_8aPHzmRhoCxvgQAvD_BwE" class="social"><p>gosend</p></a>
+                          </button>
+                        </p>
+                      </div>
+                   </div>
+                </div>
+   
+                <div class="row pt-4 gx-4 gy-4">
+                  <div class="col-md-4">
+                   <div class="card crop-img">
+                      <img
+                        src="https://ahlinesia.com/wp-content/uploads/2022/09/logo-tiki.jpg"
+                        class="card-img-top"
+                        width="300"
+                        height="300"
+                      />
+                      <div class="card-body">
+                        <h5 class="card-title" > </h5>tiki
+                        <p class="card-text">
+                          <button type="button" class="btn btn-dark btn-lg">
+                            <a href="https://www.tiki.id/id/beranda" class="social"><p>tiki</p></a>
+                          </button>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                      <div class="card crop-img">
+                        <img
+                          src="https://media62.id/wp-content/uploads/2021/09/logo_sicepat_ekspress.png"
+                          class="card-img-top"
+                          width="300"
+                          height="300"
+                        />
+                        <div class="card-body">
+                          <h5 class="card-title">sicepat_ekspress</h5>
+          
+                          <p class="card-text">
+                            <button type="button" class="btn btn-dark btn-lg">
+                              <a href="https://www.sicepat.com/" class="social"><p>sicepat</p></a>
+                            </button>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                          <div class="col-md-4">
+                           <div class="card crop-img">
+                              <img
+                                src="https://siar.com/wp-content/uploads/2022/02/Anteraja-logo-960x640.jpg"
+                                class="card-img-top"
+                                width="300"
+                                height="300"
+                              />
+                              <div class="card-body">
+                                <h5 class="card-title" >Anteraja</h5>
+                                <p class="card-text">
+                                  <button type="button" class="btn btn-dark btn-lg">
+                                    <a href="https://anteraja.id/id/" class="social"><p>Anteraja</p></a>
+                                  </button>
+                                </p>
+                              </div>
+                           </div>
+                        </div>
+
+    <div class="container text-center pt-5 pb-5">
+       DFSTORE13 Website
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+      crossorigin="anonymous"
+    ></script>
+</body>
+</html>
